@@ -7,7 +7,7 @@ dredd_hooks==0.2.0
 rethinkdb==2.3.0.post6
 sawtooth_sdk==1.0.5
 sawtooth_signing==1.0.5
-aiohttp==3.4.4
+aiohttp==3.9.0
 sanic==0.8.3
 sanic-cors==0.9.7
 protobuf==3.6.1
