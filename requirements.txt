@@ -23,7 +23,7 @@ pytest-asyncio==0.10.0
 pytest-cov==2.6.0
 pytest-env==0.6.2
 grpcio-tools==1.15.0
-cryptography==2.3.1
+cryptography==42.0.0
 ldap3==2.5.1
 rasa_core==0.12.2
 rasa_nlu==0.13.8
